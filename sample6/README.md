@@ -1,5 +1,5 @@
 # pybangtal_sample6
-##프로젝트
+## 프로젝트
 방탈출 게임(중급)
 ## 중요사항
 - 이 프로그램의 소스 코드는 방탈 게임서버 버전 0.2.0.0에서 작성되었습니다.
@@ -15,7 +15,7 @@
 ## 게임 조작
 - 모든 게임 조작은 마우스 클릭으로 이루어집니다.
 
-##함수 설명
+## 함수 설명
 - def onMouseAction_door1(x, y, action) : door1 객체의 callback 함수
 
 - def onMouseAction_door2(x, y, action) : door2 객체의 callback 함수

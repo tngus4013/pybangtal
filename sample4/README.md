@@ -1,5 +1,5 @@
 # pybangtal_sample4
-##프로젝트
+## 프로젝트
 로또 번호 생성 프로그램
 
 ## 중요사항
@@ -16,7 +16,7 @@
 ## 프로그램 조작
 - 모든 조작은 마우스 클릭으로 이루어집니다.
 
-##함수 설명
+## 함수 설명
 - def onMouseAction_start(x, y, action) : 시작 버튼 객체의 callback 함수
 
 - def onMouseAction_end(x, y, action) : 종료 버튼 객체의 callback 함수
